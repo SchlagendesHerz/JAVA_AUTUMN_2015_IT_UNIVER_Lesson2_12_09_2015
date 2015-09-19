@@ -1,7 +1,6 @@
 package Lesson2_12_09_2015;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 class Set {
